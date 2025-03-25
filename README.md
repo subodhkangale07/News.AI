@@ -56,7 +56,6 @@ News.Ai is an AI-powered personalized news aggregation platform designed to deli
 ---
 
 ## 📸 Screenshots
-_(Add relevant screenshots of the project UI here)_
 ![image](https://github.com/user-attachments/assets/5277553e-e2e5-435a-8030-295381915fd6)
 ![image](https://github.com/user-attachments/assets/1b06092e-76b0-475c-9113-41331e71af34)
 ![image](https://github.com/user-attachments/assets/b3df6a7e-4f71-4d36-b99c-21d04f7d4f3c)
