@@ -28,7 +28,30 @@
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
+    <div id="root">
+      <iframe
+      src="https://www.chatbase.co/chatbot-iframe/7ExaXGtjfaE0Q1bYGBDTr"
+      width="100%"
+      style="height: 100%; min-height: 700px"
+      frameborder="0"
+  ></iframe>
+
+  <script>
+    (function(){if(!window.chatbase||window.chatbase("getState")!=="initialized"){window.chatbase=(...arguments)=>{if(!window.chatbase.q){window.chatbase.q=[]}window.chatbase.q.push(arguments)};window.chatbase=new Proxy(window.chatbase,{get(target,prop){if(prop==="q"){return target.q}return(...args)=>target(prop,...args)}})}const onLoad=function(){const script=document.createElement("script");script.src="https://www.chatbase.co/embed.min.js";script.id="7ExaXGtjfaE0Q1bYGBDTr";script.domain="www.chatbase.co";document.body.appendChild(script)};if(document.readyState==="complete"){onLoad()}else{window.addEventListener("load",onLoad)}})();
+    </script>
+
+<script>
+  window.addEventListener("load", function () {
+      let chatIcon = document.querySelector(".chatbase-chat-icon");
+      if (chatIcon) {
+          chatIcon.style.backgroundColor = "red";
+          chatIcon.style.borderRadius = "50%";
+      }
+  });
+</script>
+
+
+    </div>
     <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
