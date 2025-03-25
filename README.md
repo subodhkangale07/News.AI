@@ -18,7 +18,7 @@ News.Ai is an AI-powered personalized news aggregation platform designed to deli
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Flask, Python
+- **Backend:** Flask, Python, Node.js
 - **Database:** MongoDB
 - **AI & NLP:** Pegasus, TextBlob, Logistic Regression
 
