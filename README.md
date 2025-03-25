@@ -1,70 +1,104 @@
-# Getting Started with Create React App
+# News.Ai - AI-Powered News Aggregator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🏆 1st Runner-Up at Chakravyuh 1.0 Hackathon
 
-## Available Scripts
+News.Ai is an AI-powered personalized news aggregation platform designed to deliver **reliable, curated, and sentiment-based** news to users. Built in **24 hours** at the **Chakravyuh 1.0 Hackathon (SVERI, Pandharpur)**, this project leverages **Machine Learning and Natural Language Processing (NLP)** to filter content based on **user preferences, regional relevance, and credibility scoring**.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Features
+- ✅ **ML-Based Fake News Detection**
+- ✅ **Sentiment-Based News Filtering**
+- ✅ **AI-Powered News Summarization**
+- ✅ **Personalized Content Aggregation**
+- ✅ **Intelligent AI Chatbot for News Queries**
+- ✅ **User-Friendly and Intuitive UI**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Flask, Python
+- **Database:** MongoDB
+- **AI & NLP:** NLTK, Pegasus, TextBlob, Logistic Regression
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📌 Installation & Setup
 
-### `npm run build`
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/News.Ai.git
+   cd News.Ai
+   ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. **Backend Setup:**
+   - Install dependencies:
+     ```bash
+     pip install -r requirements.txt
+     ```
+   - Start the Flask server:
+     ```bash
+     python app.py
+     ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. **Frontend Setup:**
+   - Install dependencies:
+     ```bash
+     cd frontend
+     npm install
+     ```
+   - Start the React app:
+     ```bash
+     npm start
+     ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📸 Screenshots
+_(Add relevant screenshots of the project UI here)_
+![image](https://github.com/user-attachments/assets/5277553e-e2e5-435a-8030-295381915fd6)
+![image](https://github.com/user-attachments/assets/1b06092e-76b0-475c-9113-41331e71af34)
+![image](https://github.com/user-attachments/assets/b3df6a7e-4f71-4d36-b99c-21d04f7d4f3c)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 👨‍💻 Team Members
+A **big shoutout** to my amazing teammates for their dedication and hard work:  
+🔹 **Ashish**  
+🔹 **Deepak**  
+🔹 **Shivam**  
+🔹 **Subodh**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🔮 Future Enhancements
+- 📌 Expand user base with enhanced customization options
+- 📌 Integrate **multimedia content** (podcasts, videos)
+- 📌 Improve AI/NLP models for **better content filtering**
+- 📌 Deploy the platform for public access
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🤝 Contributing
+Contributions are welcome! Feel free to **fork** the repository, create a **feature branch**, and submit a **pull request**.
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 📜 License
+This project is licensed under the **MIT License**.
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🌟 Acknowledgments
+A big thanks to **SVERI, Pandharpur** for organizing such an amazing hackathon! Looking forward to more exciting challenges ahead! 🚀
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🔗 Connect With Us
+LinkedIn: https://www.linkedin.com/in/subodhkangale07/
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#Hackathon #AI #MachineLearning #NewsAggregator #Chakravyuh1_0 #TeamSankalp #AIInnovation #Tech
