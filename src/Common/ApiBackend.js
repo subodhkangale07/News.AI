@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 const local = "https://news-ai-nuxb.onrender.com";
+=======
+const local = "http://localhost:5000";
+>>>>>>> 5934a6a0dbf79f2a9b8fa502e8cee20c2ac67a48
 const backendDomain = local;
 const summaryApi = {
     logIn: {
